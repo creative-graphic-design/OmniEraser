@@ -5,7 +5,7 @@ import pytest
 
 @pytest.fixture
 def project_root() -> pathlib.Path:
-    return pathlib.Path(__file__).parents[2]
+    return pathlib.Path(__file__).parents[1]
 
 
 @pytest.fixture

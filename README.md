@@ -5,7 +5,7 @@
 [![Hugging Face](https://img.shields.io/badge/Demo-🤗%20Hugging%20Face-blue)](https://huggingface.co/spaces/theSure/Omnieraser)
 
 <p align = "center">
-<img  src="static\images\logo_transparent.png" width="150" />
+<img src="https://raw.githubusercontent.com/PRIS-CV/Omnieraser/refs/heads/main/static/images/logo_transparent.png" width="150" />
 </p>
 
 This is the code release for paper: "OmniEraser: Remove Objects and Their Effects in Images with Paired Video-Frame Data".
